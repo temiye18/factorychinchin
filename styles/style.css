@@ -210,25 +210,29 @@ img {
 }
 .invest-1 .course-grid .my-content {
   width: 100%;
-  height: 100%;
-  margin: 20px 15px;
+  height: auto;
+  margin: 20px 19px;
 }
 
 .invest-1 .my-content .box {
-  width: 100%;
+  width: 85%;
   margin: 0;
   padding: 15px 15px;
   border-radius: 50%;
   background-color: #f3f3f3;
   text-align: center;
 }
+
 .invest-1 .my-content p {
   text-align: center;
-  margin: 12px 0;
+  margin: 15px 0;
+  padding: 0;
 }
-.invest-1 img {
-  width: 50px;
-  height: 50px;
+.invest-1 .box img {
+  width: 100%;
+  height: 100%;
+  /* width: 50px;
+  height: 50px; */
 }
 
 /* OUR  lADERBOARD & USERS  STYLING */
